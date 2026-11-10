@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shamna Nourin! 👋
 
-<!--
-**shamna-nourin/shamna-nourin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Data Science, Machine Learning, Deep Learning, and transforming data into meaningful insights.
+
+### 💻 Technical Skills
+
+- **Programming:** Python, SQL, R
+- **Data Analysis:** NumPy, Pandas, Statistics, EDA
+- **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau
+- **Machine Learning:** Supervised & Unsupervised Learning
+- **Deep Learning:** CNN, RNN
+- **Tools:** Git, GitHub
+
+### 🚀 Areas of Interest
+
+- Data Science & Analytics
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Data Visualization
+
+### 💼 Professional Experience
+
+- Data Scientist – Futura Labs
+
+### 📂 Projects
+
+Check out my repositories to explore my Data Science and Machine Learning projects!
+
+### 📫 Connect With Me
+
+- **LinkedIn:** www.linkedin.com/in/shamna-nourin
+- **GitHub:** https://github.com/shamna-nourin
+
+---
+
+⭐ Thanks for visiting my profile!
